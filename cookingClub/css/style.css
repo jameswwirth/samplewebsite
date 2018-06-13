@@ -1,0 +1,23 @@
+/* CSS File For Cooking Club*/
+
+/* 
+1. Header
+2. Body
+2. Images
+3. Footer
+
+*/
+
+header {
+	margin: 0;
+	background-color: #B0C4DE;
+}
+
+h1	{
+	color: white;
+	font-style: arial;
+}
+
+body {
+	background-color: #ffffff;
+ }
